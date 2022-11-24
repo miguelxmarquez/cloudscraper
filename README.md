@@ -1,4 +1,3 @@
-[![pypi supported versions](https://img.shields.io/pypi/pyversions/kubernetes.svg)](https://pypi.python.org/pypi/kubernetes)
 
 # Cloudscraper
 
